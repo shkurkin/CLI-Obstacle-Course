@@ -1,0 +1,1 @@
+/Users/elishkurkin/CLI-Obstacle-Course/app/views/static_pages
